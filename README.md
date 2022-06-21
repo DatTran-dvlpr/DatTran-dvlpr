@@ -15,12 +15,20 @@
 
  <h3>📝&nbsp;Dự án gần đây</h3></br>
   WebApp trưa-nay-ăn-gì(MD6-Feeder)</br>
+  &nbsp;&nbsp; [Link-Back-end](https://github.com/DatTran-dvlpr/MD6-Feeder)</br>
+  &nbsp;&nbsp; [Link-Front-end](https://github.com/DatTran-dvlpr/MD6-Feeder-FE)</br></br>
+  
   WebApp quản-lý-đội-bóng(MD4-CaseStudy)</br>
+  &nbsp;&nbsp; [Link-Back-end](https://github.com/DatTran-dvlpr/MD4-CaseStudy)</br>
+  &nbsp;&nbsp; [Link-Front-end](https://github.com/DatTran-dvlpr/MD4-CaseStudyFront)</br>
   
  <h3>😄&nbsp;Dự án vui</h3></br>
-  Game dò-mìn minesweeper(MD1-CaseStudy)</br>
-  [link-deploy](https://upbeat-almeida-a42fd7.netlify.app/)</br>
-  Game bóng nảy (MD1-BouncingBall)</br>
+  Game dò-mìn minesweeper</br>
+  [link-git](https://github.com/DatTran-dvlpr/MD1-CaseStudy)</br>
+  [link-deploy](https://upbeat-almeida-a42fd7.netlify.app/)</br></br>
+  
+  Game bóng nảy </br>
+  [link-git](https://github.com/DatTran-dvlpr/MD1-BouncingBall)</br>
   [link-deploy](https://xenodochial-bell-9d1ca2.netlify.app/)</br>
 
 <h3>📫&nbsp;Thông tin liên hệ</h3></br>
